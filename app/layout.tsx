@@ -9,7 +9,7 @@ export const metadata: Metadata = {
       "Vurvo is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: [
       {
-        url: "https://demo.useVurvo.com/opengraph-image",
+        url: "/opengraph-image.jpg",
       },
     ],
   },
@@ -18,10 +18,10 @@ export const metadata: Metadata = {
     title: "Vurvo - AI-Powered Mock Interviews",
     description:
       "Vurvo is an AI-powered mock interview platform that helps you practice for your next job interview.",
-    images: ["https://demo.useVurvo.com/opengraph-image"],
-    creator: "@tmeyer_me",
+    images: ["/opengraph-image.jpg"],
+    creator: "@alenfromrobi",
   },
-  metadataBase: new URL("https://demo.useVurvo.com"),
+  metadataBase: new URL("https://vurvo.robiai.com"),
   themeColor: "#FFF",
 };
 

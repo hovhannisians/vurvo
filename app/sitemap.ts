@@ -3,11 +3,11 @@ import { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://demo.useVurvo.com",
+      url: "https://vurvo.robiai.com",
       lastModified: new Date(),
     },
     {
-      url: "https://demo.useVurvo.com/demo",
+      url: "https://vurvo.robiai.com/demo",
       lastModified: new Date(),
     },
   ];
