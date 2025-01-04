@@ -1,5 +1,5 @@
 <a href="https://vurvo.robiai.com">
-  <img alt="Vurvo – AI-Powered Mock Interviews" src="/opengraph-image.jpg">
+  <img alt="Vurvo – AI-Powered Mock Interviews" src="https://i.ibb.co/5nSrKF6/opengraph-image.jpg">
   <h1 align="center">Vurvo Interviews</h1>
 </a>
 
